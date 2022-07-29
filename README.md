@@ -1,7 +1,7 @@
 # Ignite timer
 ![home](https://user-images.githubusercontent.com/47898033/181805624-e918f325-0476-4db3-a438-09a07f65c28f.png)
 
-![Badge](https://img.shields.io/badge/since-2021-blue?style=flat-square)
+![Badge](https://img.shields.io/badge/since-2022-blue?style=flat-square)
 ![Badge](https://img.shields.io/badge/status-finalizado-green?style=flat-square)
 
 ## About
